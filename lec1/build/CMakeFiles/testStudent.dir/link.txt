@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/testStudent.dir/main.c.o CMakeFiles/testStudent.dir/play_utils.c.o CMakeFiles/testStudent.dir/threads.c.o  -o testStudent -lm -pthread -lgomp -lpthread 

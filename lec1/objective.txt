@@ -1,0 +1,11 @@
+write function in pthreads in sequential code to find the object. 
+find elapsed time (worst case)
+Then try to parallelize it with pthreads.
+Then compute speedup factor
+Try with openMP
+Find speedup parallel/seq
+
+sharing object_detected
+barrier to know every thread arrived here. 
+Compute time
+
